@@ -56,5 +56,7 @@ $route['dunno'] = function() {
 };
 
 $route['([a-z]+)/bingo'] = "bingo"; //link 7
+$route['comp+(\d+)/wisdom'] = 'Wise/bingo';  //link #8
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
