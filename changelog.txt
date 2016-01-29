@@ -1,8 +1,17 @@
 -- newest at the top -- 
+29-01-2016 13:22 Completed link #8
 
-
+28-01-2016 19:32 Fixed link#4, and almost completed link#6
 28-01-2016 17:45 finish #5 link and #7 link
 28-01-2016 16:50 deleted my repository and re-synced everything
 28-01-2016 16:07 finish #1 link, #3 link
+28-01-2016 16:03 Completed link #2.
 28-01-2016 15:05 set up github - syncing works
+28-01-2016 15:03 Added new responsibility.
 28-01-2016 13:51 Created change log and modified readme file.
+
+
+
+
+
+
