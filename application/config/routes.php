@@ -40,7 +40,23 @@
 
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
+$route['sleep'] = "first/zzz"; // link 3 
 
+$route['lock/(:any)/(:any)'] = "welcome/shucks";    //link #4
+$route['show/(\d+)'] = "first/gimme/$1"; //link 5
+
+//link 6
+$route['dunno'] = function() {
+    $source = './data/surprise.jpg'; // an image you provide
+    // set the mime type for that image
+    header("Content-type: image/jpeg"); 
+    header('Content-Disposition: inline');
+    readfile($source); // dish it
+    die(); // and we don't have to go any further
+};
+
+$route['([a-z]+)/bingo'] = "bingo"; //link 7
+$route['comp+(\d+)/wisdom'] = 'Wise/bingo';  //link #8
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
