@@ -1,3 +1,14 @@
+Team members: Liz, Joti 
+Conventions:
+  allman style 
+  camel case 
+Responsibilites: 
+  - Joti fix even links
+  - Liz fix odd links
+  - all users commit messages must have some meaning 
+  - have fun fixing things
+
+
 #######################
 Starter Webapp - Quotes
 #######################
