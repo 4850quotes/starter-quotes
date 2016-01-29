@@ -1,0 +1,8 @@
+-- newest at the top -- 
+
+
+28-01-2016 17:45 finish #5 link and #7 link
+28-01-2016 16:50 deleted my repository and re-synced everything
+28-01-2016 16:07 finish #1 link, #3 link
+28-01-2016 15:05 set up github - syncing works
+28-01-2016 13:51 Created change log and modified readme file.
